@@ -19,6 +19,6 @@ CREATE TABLE employees (
 
 select * from employees;
 
-DELETE FROM employees where email ;
+            
 
 
